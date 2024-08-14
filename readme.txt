@@ -1,7 +1,7 @@
 This is a basic calculator.
 
-It is created with Python.
+It is created with Python GUI
 
-It has 4 operators (+ - * / )
+It is only limited to the main operators (+ - * /) 
 
-You can only make calculations between two numbers
+
